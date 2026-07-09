@@ -1,11 +1,11 @@
 ---
 layout: default
-title: ドコいこ
+title: Whimo
 ---
 
-# ドコいこ
+# Whimo
 
-iOS アプリ「ドコいこ」の法務文書を公開しています。
+iOS アプリ「Whimo（ウィモ、旧名称：ドコいこ）」の法務文書を公開しています。
 
 - [プライバシーポリシー](./privacy)
 - [利用規約](./terms)
