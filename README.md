@@ -1,6 +1,6 @@
 # dokoiko-legal
 
-iOS アプリ「ドコいこ」のプライバシーポリシーと利用規約を GitHub Pages で公開するための公開リポジトリ。
+iOS アプリ「Whimo」のプライバシーポリシーと利用規約を GitHub Pages で公開するための公開リポジトリ。
 
 公開ページ: https://tomokazukozuma.github.io/dokoiko-legal/
 
