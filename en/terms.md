@@ -10,7 +10,7 @@ permalink: /en/terms
 
 The operator of Whimo ("we", "us", or the "Operator") establishes these Terms of Service (these "Terms") for the use of the mobile application "Whimo" (formerly "Dokoiko") (the "App"). Please read these Terms carefully before using the App.
 
-Last updated: 2026-07-12
+Last updated: 2026-08-28 (added Article 4, Section 9 (Fair Use); no other changes to the content of the Terms)
 
 > These Terms are prepared in Japanese and translated into English. In the event of any inconsistency between the two versions, the [Japanese version](../terms) shall prevail to the extent permitted by applicable law.
 
@@ -47,7 +47,9 @@ The App allows you to record places you want to visit and places you have visite
 
 8. **Refunds**: Refunds after purchase are subject to Apple's policies and procedures. We cannot provide individual refunds.
 
-9. The scope and content of features available under the Paid Plan are subject to change without notice for service improvement.
+9. **Fair use**: To keep the service stable and prevent abuse, we may temporarily limit the number of times features of the App, including those under the Paid Plan, can be used, to an extent that does not interfere with normal use.
+
+10. The scope and content of features available under the Paid Plan are subject to change without notice for service improvement.
 
 ## Article 5 (Prohibited Conduct)
 
